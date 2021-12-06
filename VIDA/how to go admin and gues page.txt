@@ -1,0 +1,2 @@
+Then, browse http://localhost/VIDA in your browser for the hotel reservation website 
+and http://localhost/VIDA/admin for the system admin panel.
