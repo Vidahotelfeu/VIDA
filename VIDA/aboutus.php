@@ -14,6 +14,7 @@
               <p>Vida Hotels and Resorts is an upscale community hub where entrepreneurial and artistic minds can connect, create, relax and recharge.
 An inspiring yet understated boutique experience in the city’s hotspots for creators, where simplicity meets design. Vida Hotels and Resort sets the stage for the next big idea or move and makes it easy to invent and innovate.
 Vida’s guests come back for the easy interactions the team provides. The atmosphere is enthusiastic and light, leaving the guest to feel free in their choices.
+Home to those who appreciate fashion, art, design, and entrepreneurship, Vida is a place where art is a lifestyle and fashion is a belief.
 Refreshingly carefree, Vida keeps is simple.</p>
             </div>
            <!--  <div class="button intro_button"><a href="#">read more</a></div> -->
